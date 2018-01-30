@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_forgot_password">Forgot Password</string>
+    <string name="btn_link_to_register">Sign In</string>
+    <string name="toolbar_sign_out">log out</string>
+    <string name="user_unable_to_add">unable to add user</string>
+    <!--for setting time out duration-->
+    <integer name="splash_timeout">2000</integer>
+</resources>
